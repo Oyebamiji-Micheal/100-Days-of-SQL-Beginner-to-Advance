@@ -13,12 +13,12 @@
 ## Introduction 🚀
 <p align="justify">
 Before I begin, I would like to state the motivation behind this new journey. There are a lot of light green squares on my contribution graph; don't be mistaken, they are not errors or 'useless commits' but my codes and daily progress 
-(do well to check 🥺🙏). Consistency they say conquers all things. Thus, I decided to always learn something every day, no matter how small. In this vein, I joined the <a href="https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode">100 days of code challenge</a> and took a few free courses online. To keep up the momentum, my next challenge is to learn SQL from scratch up to an advanced level. The motivation behind this journey is my very friend and role model, <b> Ivuelekwa Stephen </b>,  whose consistency is absolutely iconic! 
+(do well to check 🥺🙏). Consistency they say conquers all things. Thus, I decided to always learn something every day, no matter how small. In this vein, I joined the <a href="https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode">100 days of code challenge</a> and took a few free courses online. To keep up the momentum, my next challenge is to learn SQL from scratch up to an advanced level. The motivation behind this journey is my very friend and role model, <b> Ivuelekwa Stephen, </b> whose consistency is absolutely iconic! 
 </p>
 
 ## Why MySql and Oracle?
 <p align="justify">
-I chose to channel my learning towards relational databases, especially MySQL and Oracle due to their popularity and demand. Currently, these two databases are arguably the most used by data scientists, engineers and analysts. What can I say? I followed the flow 😇 
+I chose to channel my learning towards relational databases, especially MySQL and Oracle due to their popularity and demand. Currently, these two relational database management systems are arguably the most used by data scientists, engineers and analysts. What can I say? I followed the flow 😇 
 </p>
 
 <a id='roadmap'></a>
