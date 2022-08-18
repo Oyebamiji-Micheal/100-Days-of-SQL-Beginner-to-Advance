@@ -1,5 +1,14 @@
+# Day 03: Creating DATABASES and TABLES
 
-I've created and connected to a database. Also, I created a table and inserted multiple values in it. I would have made a video buh electricity said nah.... 🤧🤧
-I'll continue from there tomorrow 🙂
+I've successfully created and connected to a database named ```movies_db```. Also, I created a table ```movies``` which contains about 22 rows with the following attributes:
+>- Title
+>- Director
+>- Genre
+>- Runtime
+>- Release Year
+>- Vote Count
 
-A more descriptive readme will be written in less than 24 hours from now. I would gotten access to stable electricity, hopefully.
+The data in the table is a subset of [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) from Kaggle. It is also worth pointing out that I picked a random genre from each row of the data because most rows contain more than one genre. Also, this dataset will be used to practice various functions in the next few days. 
+ 
+[Click here to view query](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/Log/day03/movies.sql)
+![heart](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/Log/day03/Create%20database%20and%20table.gif)
