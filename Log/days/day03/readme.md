@@ -16,4 +16,4 @@ The data in the table is a subset of [TMDB 5000 Movie Dataset](https://www.kaggl
 </br>
 </br>
 
-![heart](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/Log/day03/Create%20database%20and%20table.gif)
+![heart](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/Log/days/day03/Create%20database%20and%20table.gif)
