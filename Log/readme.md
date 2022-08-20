@@ -7,4 +7,5 @@
 |02 |   [Created and Connected to a Database](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day02)   |    MySQL   |   Beginner
 |03 |   [Created and inserted values into a table](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day03) |   MySQL   |   Beginner   
 |04 |   [Introduction to CRUD](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day04) |   MySQL   |   Beginner    |   
-|05 |   [Performed CRUD operations on movies table](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day05)    |   MySQL   |   Beginner    
+|05 |   [Performed CRUD operations on movies table](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day05)    |   MySQL   | Beginner
+|06 | [String Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day06) | MySQL | Beginner 
