@@ -9,3 +9,4 @@
 |04 |   [Introduction to CRUD](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day04) |   MySQL   |   Beginner    |   
 |05 |   [Performed CRUD operations on movies table](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day05)    |   MySQL   | Beginner
 |06 | [String Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day06) | MySQL | Beginner 
+|07 | [DISTINCT, ORDER BY, LIMIT](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day07)  | MySQL | Beginner
