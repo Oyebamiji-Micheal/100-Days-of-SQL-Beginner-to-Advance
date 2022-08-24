@@ -11,3 +11,4 @@
 | 07  |          [DISTINCT, ORDER BY, LIMIT](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day07)           | MySQL | Beginner |
 | 08  |     [Introduction to aggregate functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day08)      | MySQL | Beginner |
 | 09  | [Data Types (cont): DECIMAL, FLOAT AND DOUBLE](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day09) | MySQL | Beginner |
+| 10  |  [Data Types (cont): DATE, TIME and DATETIME](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day10)  | MySQL | Beginner |
