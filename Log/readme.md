@@ -13,4 +13,5 @@
 | 09  | [Data Types (cont): DECIMAL, FLOAT AND DOUBLE](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day09) | MySQL | Beginner |
 | 10  | [Data Types (cont): DATE, TIME and DATETIME](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day10)   | MySQL | Beginner |
 | 11  | [Date and Time Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day11)                      | MySQL | Beginner |
-| 12  | [Formatting datetime](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day12)                          | MySql | Beginner |
+| 12  | [Formatting datetime](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day12)                          | MySQL | Beginner |
+| 13  | [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day13)                                     | MySQL | Beginner |
