@@ -15,3 +15,4 @@
 | 11  | [Date and Time Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day11)                      | MySQL | Beginner |
 | 12  | [Formatting datetime](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day12)                          | MySQL | Beginner |
 | 13  | [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day13)                                     | MySQL | Beginner |
+| 14  | [Arithmetic Operations with DateTime ](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day14)         | MySQL | Beginner |
