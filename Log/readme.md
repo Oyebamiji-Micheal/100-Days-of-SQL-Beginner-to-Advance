@@ -18,3 +18,4 @@
 | 14  | [Arithmetic Operations with DateTime ](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day14)         | MySQL | Beginner |
 | 15  | [TIMESTAMP](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day15)                                    | MySQL | Beginner |
 | 16  | [Introduction to Logical Operators](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day16)                                    | MySQL | Beginner |
+| 17  | [Logical Operators (cont)](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day17)                                    | MySQL | Beginner |
