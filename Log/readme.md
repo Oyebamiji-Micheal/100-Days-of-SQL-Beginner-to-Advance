@@ -19,3 +19,4 @@
 | 15  | [TIMESTAMP](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day15)                                    | MySQL | Beginner |
 | 16  | [Introduction to Logical Operators](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day16)                                    | MySQL | Beginner |
 | 17  | [Logical Operators (cont)](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day17)                                    | MySQL | Beginner |
+| 18   | [Logical Operators with DateTime \| Case Statements](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day18)     |   MySQL   |   Beginner    |
