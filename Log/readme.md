@@ -26,3 +26,4 @@
 | 22 |  [One to Many Relationship \| Joins](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day22) |  MySQL  |    Beginner    |
 | 23 |  [Right and Left Join](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day23) |  MySQL  |    Beginner    |
 | 24 |  [Many to Many Relationship](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day24) |  MySQL  |    Beginner    |
+| 25 |  [Joins Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day25) |  MySQL  |    Beginner    |
