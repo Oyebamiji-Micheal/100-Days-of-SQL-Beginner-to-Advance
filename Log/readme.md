@@ -28,3 +28,4 @@
 | 24 |  [Many to Many Relationship](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day24) |  MySQL  |    Beginner    |
 | 25 |  [Joins Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day25) |  MySQL  |    Beginner    |
 | 26 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day26) |  MySQL  |    Beginner    |
+| 27 |  [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day27) |  MySQL  |    Beginner    |
