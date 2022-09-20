@@ -37,3 +37,4 @@
 | 33 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day33) |  MySQL  |    Beginner    |
 | 34 |  [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day34) |  MySQL  |    Beginner    |
 | 35 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day35) |  MySQL  |    Beginner    |
+| 36 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day36) |  MySQL  |    Beginner    |
