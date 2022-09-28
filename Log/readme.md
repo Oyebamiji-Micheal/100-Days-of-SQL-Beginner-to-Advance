@@ -45,3 +45,4 @@
 | 41 |  [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day41) |  MySQL  |    Beginner    |
 | 42 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day42) |  MySQL  |    Beginner    |
 | 43 |  [Project](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day43) |  MySQL  |    Beginner    |
+| 44 |  [Project](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day44) |  MySQL  |    Beginner    |
