@@ -1,0 +1,1 @@
+Today, I learned about the 'LIKE' operator.
