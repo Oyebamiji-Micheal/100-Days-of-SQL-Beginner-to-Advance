@@ -38,10 +38,10 @@
 | 34 |  [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day34) |  MySQL  |    Beginner    |
 | 35 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day35) |  MySQL  |    Beginner    |
 | 36 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day36) |  MySQL  |    Beginner    |
-| 37 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/37) |  MySQL  |    Beginner    |
-| 38 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/38) |  MySQL  |    Beginner    |
-| 39 |  [LeetCode SQL Practice Control Flow](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/39) |  MySQL  |    Beginner    |
-| 40 |  [LeetCode SQL Practice Control Flow](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/40) |  MySQL  |    Beginner    |
+| 37 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day37) |  MySQL  |    Beginner    |
+| 38 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day38) |  MySQL  |    Beginner    |
+| 39 |  [LeetCode SQL Practice Control Flow](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day39) |  MySQL  |    Beginner    |
+| 40 |  [LeetCode SQL Practice Control Flow](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day40) |  MySQL  |    Beginner    |
 | 41 |  [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day41) |  MySQL  |    Beginner    |
 | 42 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day42) |  MySQL  |    Beginner    |
 | 43 |  [Project](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day43) |  MySQL  |    Beginner    |
