@@ -48,3 +48,4 @@
 | 44 |  [Project](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day44) |  MySQL  |    Beginner    |
 | 45 | [The LIKE Operator](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day45) |   MySQL   |   Beginner    |   
 | 46 | [Many to Many Relationship: Three Tables](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day46) |   MySQL   |   Beginner    |  
+| 47 | [Project Schema Design](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day47) |   MySQL   |   Beginner    |  
