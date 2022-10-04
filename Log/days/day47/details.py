@@ -29,9 +29,5 @@ def details():
     # however accepts a sequence.
     # Hence. Convert the dictionary into a list of tuples before returning
     faculties_departments = list(faculties_departments.items())
-
-    courses = {
-        
-    }
     
-    return faculties_departments, courses
+    return faculties_departments
