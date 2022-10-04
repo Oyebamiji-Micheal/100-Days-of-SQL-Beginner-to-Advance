@@ -5,17 +5,18 @@
 
 
 ## Contents
-* Introduction
-* Why MySQL and Oracle?
+* [Introduction](#intro)
+* [Why MySQL and Oracle?](#why)
 * [Roadmap](#roadmap)
 * [Log - click here to see my progress](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log)
 
+<a id='intro'></a>
 ## Introduction 🚀
 <p align="justify">
-Before I begin, I would like to state the motivation behind this new journey. There are a lot of light green squares on my contribution graph; don't be mistaken, they are not errors or 'useless commits' but my codes and daily progress 
-(do well to check 🥺🙏). Consistency they say conquers all things. Thus, I decided to always learn something every day, no matter how small. In this vein, I joined the <a href="https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode">100 days of code challenge</a> and took a few free courses online. To keep up the momentum, my next challenge is to learn SQL from scratch up to an advanced level. The motivation behind this journey is my very friend and role model, <b> Ivuelekwa Stephen, </b> whose consistency is absolutely iconic! 
+Consistency they say conquers all things. Thus, I decided to always learn something every day, no matter how small. In this vein, I joined the <a href="https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode">100 days of code challenge</a> and took a few free courses online. To keep up the momentum, my next challenge is to learn SQL from scratch up to an advanced level. The motivation behind this journey is my very friend and role model, <b> Ivuelekwa Stephen, </b> whose coding consistency is absolutely iconic ! 🥺🙏 
 </p>
 
+<a id='why'></a>
 ## Why MySql and Oracle?
 <p align="justify">
 I chose to channel my learning towards relational databases, especially MySQL and Oracle due to their popularity and demand. Currently, these two relational database management systems are arguably the most used by data scientists, engineers and analysts. What can I say? I followed the flow 😇 
@@ -32,10 +33,7 @@ Assumed End Date: 25th of November 2022 🎉
 
 </br>
 
-Want higher resolution? Check [images folder](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/images)
-## Beginner to Intermediate Week 1 - 6
-<p>
-<img  width="1000" height="500" src="https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/images/SQL%20Roadmap%20Beginner%20to%20Intermediate.jpg">
+Check [images folder](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/images) for image file of challenge roadmap.
 
 ## Week 7
 * Triggers
@@ -45,10 +43,6 @@ Want higher resolution? Check [images folder](https://github.com/Oyebamiji-Miche
 * Regular Expressions 2
 * Practice
 * Summarize and Iterate
-
-## Intermediate to Advance Week 8 - 13
-</p>
-<img width="1000" height="500"src="https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/images/SQL%20Roadmap%20Intermediate%20to%20Advance.jpg">
 
 ## Week 14
 * Queries and Subqueries: Joins (conclusion)
