@@ -50,4 +50,4 @@
 | 46 | [Many to Many Relationship: Three Tables](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day46) |   MySQL   |   Beginner    |  
 | 47 | [Project Schema Design](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day47) |   MySQL   |   Beginner    |  
 | 48 | [Project Schema Design II](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day48) |   MySQL   |   Beginner    |  
-| 49 | [HAVING \| GROUP_CONCAT \| IF() \| Exercises](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day48) |   MySQL   |   Beginner    | 
+| 49 | [HAVING \| GROUP_CONCAT \| IF() \| Exercises](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day49) |   MySQL   |   Beginner    | 
