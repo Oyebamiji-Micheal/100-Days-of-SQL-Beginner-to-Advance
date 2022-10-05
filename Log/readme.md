@@ -32,7 +32,7 @@
 | 28 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day28) |  MySQL  |    Beginner    |
 | 29 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day29) |  MySQL  |    Beginner    |
 | 30 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day30) |  MySQL  |    Beginner    |
-| 31 |  [Union](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day31) |  MySQL  |    Beginner    |
+| 31 |  [ALTER \| UNION \| UNION ALL](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day31) |  MySQL  |   Beginner    |
 | 32 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day32) |  MySQL  |    Beginner    |
 | 33 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day33) |  MySQL  |    Beginner    |
 | 34 |  [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day34) |  MySQL  |    Beginner    |
@@ -46,8 +46,8 @@
 | 42 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day42) |  MySQL  |    Beginner    |
 | 43 |  [Project](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day43) |  MySQL  |    Beginner    |
 | 44 |  [Project](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day44) |  MySQL  |    Beginner    |
-| 45 | [The LIKE Operator](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day45) |   MySQL   |   Beginner    |   
+| 45 | [Triggers in MySQL \| The LIKE Operator](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day45) |   MySQL   |   Beginner    |   
 | 46 | [Many to Many Relationship: Three Tables](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day46) |   MySQL   |   Beginner    |  
 | 47 | [Project Schema Design](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day47) |   MySQL   |   Beginner    |  
 | 48 | [Project Schema Design II](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day48) |   MySQL   |   Beginner    |  
-
+| 49 | [HAVING \| GROUP_CONCAT \| IF() \| Exercises](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day48) |   MySQL   |   Beginner    | 
