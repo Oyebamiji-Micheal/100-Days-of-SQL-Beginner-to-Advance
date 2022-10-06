@@ -1,29 +1,29 @@
 -- create new database
-CREATE DATABASE 	user_db;
+CREATE DATABASE user_db;
 USE user_db;
 
 -- create users table
 CREATE TABLE users (
 	id INT AUTO_INCREMENT PRIMARY KEY,
-            first_name VARCHAR(100),
-            last_name VARCHAR(100));
+	first_name VARCHAR(100),
+	last_name VARCHAR(100));
 INSERT INTO 
 	users (first_name, last_name)
 VALUES 
 	('Paul', 'Anderson'), ('Mary', 'Rita'),
-            ('Danny', 'Might'), ('Debby', 'Praise'),
-            ('Maco', 'Einstein'), ('Thompson', 'Stone'),
-            ('Josh', 'Mane'), ('George', 'Snow'),
-            ('Simon', 'Peter'), ('David', 'Lius');
+	('Danny', 'Might'), ('Debby', 'Praise'),
+	('Maco', 'Einstein'), ('Thompson', 'Stone'),
+	('Josh', 'Mane'), ('George', 'Snow'),
+	('Simon', 'Peter'), ('David', 'Lius');
             
 -- create tweet info table
 CREATE TABLE tweet_info (
 	id INT AUTO_INCREMENT PRIMARY KEY,
-            tweet_date DATE,
-            retweet_count INT,
-            favorite_count INT,
-            user_id INT,
-            FOREIGN KEY (user_id) REFERENCES users(id));
+	tweet_date DATE,
+	retweet_count INT,
+	favorite_count INT,
+	user_id INT,
+	FOREIGN KEY (user_id) REFERENCES users(id));
 INSERT INTO 
 	tweet_info (tweet_date, retweet_count, favorite_count, user_id)
 VALUES 
@@ -39,6 +39,6 @@ VALUES
 -- perform an inner join on user id
 SELECT
 	tweet_info.id, first_name, last_name, 
-            tweet_date, retweet_count, favorite_count, user_id 
+	tweet_date, retweet_count, favorite_count, user_id 
 FROM users 
 JOIN tweet_info ON users.id=tweet_info.user_id;
