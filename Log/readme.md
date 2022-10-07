@@ -23,7 +23,7 @@
 |  19   |   [Introduction to Relationships in MySQL](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day19) |   MySQL   |   Beginner    | 
 | 20    |   [Relationships (cont)](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day20) |   MySQL | Beginner    |
 | 21 | [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day21) | MySQL | Beginner
-| 22 |  [One to Many Relationship \| Joins](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day22) |  MySQL  |    Beginner    |
+| 22 |  [One to Many Relationship \| Inner Join](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day22) |  MySQL  |    Beginner    |
 | 23 |  [Right and Left Join](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day23) |  MySQL  |    Beginner    |
 | 24 |  [Many to Many Relationship](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day24) |  MySQL  |    Beginner    |
 | 25 |  [Joins Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day25) |  MySQL  |    Beginner    |
@@ -35,7 +35,7 @@
 | 31 |  [ALTER \| UNION \| UNION ALL](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day31) |  MySQL  |   Beginner    |
 | 32 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day32) |  MySQL  |    Beginner    |
 | 33 |  [LeetCode SQL Practice](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day33) |  MySQL  |    Beginner    |
-| 34 |  [Revision](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day34) |  MySQL  |    Beginner    |
+| 34 |  [Temporary Table vs Copied Table](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day34) |  MySQL  |    Beginner    |
 | 35 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day35) |  MySQL  |    Beginner    |
 | 36 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day36) |  MySQL  |    Beginner    |
 | 37 |  [LeetCode SQL Practice Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day37) |  MySQL  |    Beginner    |
@@ -51,3 +51,4 @@
 | 47 | [Project Schema Design](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day47) |   MySQL   |   Beginner    |  
 | 48 | [Project Schema Design II](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day48) |   MySQL   |   Beginner    |  
 | 49 | [HAVING \| GROUP_CONCAT \| IF() \| Exercises](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day49) |   MySQL   |   Beginner    | 
+| 50 | [More on Joins](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day50) |   MySQL   |   Beginner    |
