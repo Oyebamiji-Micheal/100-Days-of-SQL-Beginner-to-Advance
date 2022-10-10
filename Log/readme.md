@@ -52,3 +52,5 @@
 | 48 | [Project Schema Design II](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day48) |   MySQL   |   Beginner    |  
 | 49 | [HAVING \| GROUP_CONCAT \| IF() \| Exercises](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day49) |   MySQL   |   Beginner    | 
 | 50 | [More on Joins](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day50) |   MySQL   |   Beginner    |
+| 51 | [MySQL Triggers in Detail](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day51) |   MySQL   |   Beginner    |
+
