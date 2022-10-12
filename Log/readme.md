@@ -54,3 +54,4 @@
 | 50 | [More on Joins](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day50) |   MySQL   |   Beginner    |
 | 51 | [MySQL Triggers in Detail](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day51) |   MySQL   |   Beginner    |
 | 52 | [User Defined Variables \| Median](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day52) |   MySQL   |   Beginner    |
+| 53 | [Indexes in MySQL](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day53) |   MySQL   |   Beginner    |
