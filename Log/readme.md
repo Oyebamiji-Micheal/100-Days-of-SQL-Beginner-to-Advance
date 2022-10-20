@@ -56,3 +56,4 @@
 | 52 | [User Defined Variables \| Median](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day52) |   MySQL   |   Beginner    |
 | 53 | [Indexes in MySQL](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day53) |   MySQL   |   Beginner    |
 | 54 | [Subqueries](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day54) |   MySQL   |   Beginner |
+| 55 | [MySQL Stored Objects: Views](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day55) |   MySQL   |   Beginner |
