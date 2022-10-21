@@ -58,3 +58,4 @@
 | 54 | [Subqueries](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day54) |   MySQL   |   Beginner |
 | 55 | [MySQL Stored Objects: Views](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day55) |   MySQL   |   Beginner |
 | 56 | [Introduction to Stored Procedures](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day56) |   MySQL   |   Beginner |
+| 57 | [Common Table Expressions \| Window Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day57) |   MySQL   |   Beginner |
