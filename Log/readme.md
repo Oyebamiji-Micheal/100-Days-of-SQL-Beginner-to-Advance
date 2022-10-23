@@ -60,3 +60,4 @@
 | 56 | [Introduction to Stored Procedures](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day56) |   MySQL   |   Beginner |
 | 57 | [Common Table Expressions \| Window Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day57) |   MySQL   |   Beginner |
 | 58 | [Window Functions: Ranking](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day58) |   MySQL   |   Beginner |
+| 59 | [Window Functions: LAG and LEAD](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day59) |   MySQL   |   Beginner |
