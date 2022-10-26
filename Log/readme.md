@@ -61,3 +61,4 @@
 | 57 | [Common Table Expressions \| Window Functions](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day57) |   MySQL   |   Beginner |
 | 58 | [Window Functions: Ranking](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day58) |   MySQL   |   Beginner |
 | 59 | [Window Functions: LAG and LEAD](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day59) |   MySQL   |   Beginner |
+| 60 | [Nth Highest Record](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day60) |   MySQL   |   Beginner |
