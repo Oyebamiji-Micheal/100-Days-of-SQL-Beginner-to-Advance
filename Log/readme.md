@@ -63,3 +63,4 @@
 | 59 | [Window Functions: LAG and LEAD](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day59) |   MySQL   |   Beginner |
 | 60 | [Nth Highest Record](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day60) |   MySQL   |   Beginner |
 | 61 | [MySQL in Python I](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day61) |   MySQL   |   Beginner |
+| 62 | [MySQL in Python II](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day62) |   MySQL   |   Beginner |
