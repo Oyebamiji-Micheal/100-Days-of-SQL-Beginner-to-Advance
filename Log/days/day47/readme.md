@@ -7,7 +7,7 @@ In the [first project](https://github.com/Oyebamiji-Micheal/Result-Management-Sy
 Today, I will recreate the database schema and write simple sql queries to perform basic CRUD operations.
 
 The new schema will contain the following tables 
-1. **Student Profiles**: This table will store basic profile information such as name, faculty, department and current_level. To keep things simple, this table does not necessary need to store information such as date of birth, gender, nationality and so on.
+1. **Student Profiles**: This table will store basic profile information such as name, faculty, department and current_level. To keep things simple, this table does not necessarily need to store information such as date of birth, gender, nationality and so on.
 2. **Courses**: This table will store course codes and their corresponding description. 
 3. **Results** : Student respective scores 
 
