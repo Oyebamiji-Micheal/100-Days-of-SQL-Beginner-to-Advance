@@ -40,13 +40,13 @@ Suppose the question 'Calculate the total number of students across all levels i
 USE rdms;
 
 SELECT 
-	current_level, faculty, 
+    current_level, faculty, 
     COUNT(students_profile.id) AS no_of_student
 FROM students_profile
 JOIN results 
-	ON results.profile_id = students_profile.id
+    ON results.profile_id = students_profile.id
 JOIN courses
-	ON courses.id = students_profile.id
+    ON courses.id = students_profile.id
 GROUP BY current_level, faculty
 LIMIT 5;
 ```
@@ -76,22 +76,22 @@ In some cases however, the output below might be the required format (pivot)
 USE rdms;
 
 SELECT
-	faculty,
-        COUNT(CASE WHEN current_level = 100 THEN students_profile.id END) AS '100',
-	    COUNT(CASE WHEN current_level = 200 THEN students_profile.id END) AS '200',
-        COUNT(CASE WHEN current_level = 300 THEN students_profile.id END) AS '300',
-        COUNT(CASE WHEN current_level = 400 THEN students_profile.id END) AS '400',
-        COUNT(CASE WHEN current_level = 500 THEN students_profile.id END) AS '500',
-        COUNT(CASE WHEN current_level = 600 THEN students_profile.id END) AS '600',
-        COUNT(CASE WHEN current_level = 700 THEN students_profile.id END) AS '700'
+    faculty,
+    COUNT(CASE WHEN current_level = 100 THEN students_profile.id END) AS '100',
+    COUNT(CASE WHEN current_level = 200 THEN students_profile.id END) AS '200',
+    COUNT(CASE WHEN current_level = 300 THEN students_profile.id END) AS '300',
+    COUNT(CASE WHEN current_level = 400 THEN students_profile.id END) AS '400',
+    COUNT(CASE WHEN current_level = 500 THEN students_profile.id END) AS '500',
+    COUNT(CASE WHEN current_level = 600 THEN students_profile.id END) AS '600',
+    COUNT(CASE WHEN current_level = 700 THEN students_profile.id END) AS '700'
 FROM students_profile
 JOIN results 
-	ON results.profile_id = students_profile.id
+    ON results.profile_id = students_profile.id
 JOIN courses
-	ON courses.id = students_profile.id
+    ON courses.id = students_profile.id
 GROUP BY faculty
 LIMIT 5;
 ```
 
 When would one format be preferred over the other?     
-Well doesn't to know both, does it?
+Well doesn't hurt to know both!
