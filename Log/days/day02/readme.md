@@ -1,5 +1,5 @@
 # Day2: Installation and Setup (version 8.0)
-I downloaded MySQL Workbench, Command Line Client and Server on my windows machine 🙂
+Today, I downloaded MySQL Workbench, Command Line Client and Server on my windows machine 🙂
 
 </br>
 <h1 align="Left">Command Line Interface</h1>
