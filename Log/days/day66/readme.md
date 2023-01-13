@@ -5,8 +5,8 @@ Today, I successfully installed Oracle Database 21c Express Edition, Oracle SQL 
 
 </br>
 <h1 align="Left">Oracle SQL Developer</h1>
-<img width="700" height="400" src="https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/Log/days/day66/images/oracle%20sql%20developer.png">
+<img src="https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/Log/days/day66/images/oracle%20sql%20developer.png">
 
 </br>
 <h1 align="Left">Command Line Interface</h1>
-<img src="https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/Log/days/day66/images/oracle%20developer%20sqlcl.png">
+<img width="900" src="https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/blob/master/Log/days/day66/images/oracle%20developer%20sqlcl.png">
