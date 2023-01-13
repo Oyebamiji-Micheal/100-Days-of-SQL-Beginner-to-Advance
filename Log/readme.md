@@ -67,3 +67,4 @@
 | 63 | [Pivot](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day63) |   MySQL   |   Beginner |
 | 64 | [Project](https://github.com/Oyebamiji-Micheal/Sql100) |   MySQL   |   Intermediate |
 | 65 | [Getting Started](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day65)  |   Oracle  | Intermediate
+| 66 | [Installation and Setup](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance/tree/master/Log/days/day66) | Oracle | Intermediate 
